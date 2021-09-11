@@ -1,0 +1,41 @@
+{
+  "numSpecs": 3748,
+  "numAPIs": 2320,
+  "numEndpoints": 78666,
+  "unreachable": 131,
+  "invalid": 634,
+  "unofficial": 24,
+  "fixes": 33601,
+  "fixedPct": 21,
+  "datasets": [
+    {
+      "title": "providerCount",
+      "data": {
+        "adyen.com": 60,
+        "amazonaws.com": 294,
+        "apisetu.gov.in": 181,
+        "azure.com": 1832,
+        "ebay.com": 20,
+        "fungenerators.com": 12,
+        "googleapis.com": 405,
+        "hubapi.com": 11,
+        "interzoid.com": 20,
+        "mastercard.com": 14,
+        "microsoft.com": 27,
+        "nexmo.com": 20,
+        "nytimes.com": 11,
+        "parliament.uk": 11,
+        "sportsdata.io": 35,
+        "twilio.com": 35,
+        "windows.net": 10,
+        "Others": 750
+      }
+    }
+  ],
+  "stars": 2539,
+  "issues": 33,
+  "thisWeek": {
+    "added": 8,
+    "updated": 97
+  }
+}
